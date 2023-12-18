@@ -12,4 +12,9 @@ public class ShopvistaApplication {
 		System.out.println("CJC");
 	}
 
+ public void m1(){
+
+System.Out.Println("Welcome to Here")
+}
+
 }
