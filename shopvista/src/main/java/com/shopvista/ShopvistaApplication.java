@@ -9,7 +9,8 @@ public class ShopvistaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ShopvistaApplication.class, args);
 		System.out.println("hello");
-		System.out.println("CJC");
+		System.out.println("Pratik");
+		System.out.println("from Ganesh");
 	}
 
  public void m1(){
