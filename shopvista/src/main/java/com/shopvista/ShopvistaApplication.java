@@ -23,4 +23,7 @@ public void m2() {
 public void m3() {
 	System.out.println(" ok-----------");
 }
+	public void m4(){
+System.out.println("Dev1 changes");		
+}
 }
