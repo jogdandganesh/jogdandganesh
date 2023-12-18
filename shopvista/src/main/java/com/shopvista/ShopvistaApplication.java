@@ -20,4 +20,7 @@ System.out.println("Welcome to Here");
 public void m2() {
 	System.out.println("done");
 }
+public void m3() {
+	System.out.println(" ok-----------");
+}
 }
