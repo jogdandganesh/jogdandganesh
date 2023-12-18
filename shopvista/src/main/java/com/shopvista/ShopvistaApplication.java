@@ -15,7 +15,9 @@ public class ShopvistaApplication {
 
  public void m1(){
 
-System.Out.Println("Welcome to Here")
+System.out.println("Welcome to Here");
 }
-
+public void m2() {
+	System.out.println("nilesh changes");
+}
 }
